@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Americano",
+        "price": 20
+    },
+    {
+        "name": "Capucino",
+        "price": 10
+    },
+    {
+        "name": "Espresso",
+        "price": 3
+    },
+    {
+        "name": "3 in 1",
+        "price": 4
+    }
+]
