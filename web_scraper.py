@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import json
 import requests
-from collections import namedtuple
 
 URL = 'https://turkmenportal.com/blog/novosti/'
 # grid_block
